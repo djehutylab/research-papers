@@ -7,7 +7,7 @@
 
 
 ## 🔬 About This Repository
-As a PhD researcher, keeping open-access data, raw datasets, and preprint academic papers here builds immense credibility. This index links our real-world physical engineering prototypes directly with mathematical, algorithmic, and optical research discoveries.
+As a researcher, keeping open-access data, raw datasets, and preprint academic papers here builds immense credibility. This index links our real-world physical engineering prototypes directly with mathematical, algorithmic, and optical research discoveries.
 
 ## 📂 Repository Structure
 ```text
